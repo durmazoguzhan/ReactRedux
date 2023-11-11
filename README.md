@@ -7,6 +7,7 @@
     - Store
     - Reducer
     - connect
+    - Action
 
 - React Router DOM
     - BrowserRouter
